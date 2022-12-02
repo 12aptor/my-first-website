@@ -1,4 +1,4 @@
-# Git y Giyhub
+# Git y Github
 
 ## Comprobar que Git esté instalado
 
